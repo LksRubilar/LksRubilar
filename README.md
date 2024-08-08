@@ -5,7 +5,7 @@
 
 ## Sobre mi
 
--  <h2>  // Front-End Developer // </h2> 
+<h1>  Front-End Developer </h1> 
 - ✏️📗 Estudiando desarrollo de App Moviles 📲
 
 
