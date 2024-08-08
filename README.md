@@ -64,14 +64,14 @@
 </table>
 
 <table align="center">
-<td width="50%">
+<td width="33%">
 <h3 align="center">Mobil Dev Framework:</h3>
 <div align="center">
 <p align="center"> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a></p>
 </div>                                                                                   
 </td>
   
-<td width="50%">
+<td width="33%">
 <h3 align="center">Back-End & Data base:</h3>
 <div align="center">                                       
 <p align="center"> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a
@@ -81,7 +81,7 @@
 </div> 
 </td>
 
-<td width="50%">
+<td width="33%">
 <h3 align="center">Design Skills:</h3>
 <div align="center">                                       
 <p align="center"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a> 
