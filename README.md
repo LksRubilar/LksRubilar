@@ -5,7 +5,7 @@
 
 ## Sobre mi
 
--  <h2> ⭐ // Front-End Developer //⭐ </h2> 
+-  <h2>  // Front-End Developer // </h2> 
 - ✏️📗 Estudiando desarrollo de App Moviles 📲
 
 
@@ -65,7 +65,7 @@
 </table>
 
 <br>
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;GitHub Analytics <h2>  GitHub Analytics </h2>
 <p align="center">
 <a href="https://github.com/LksRubilar">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LksRubilar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
