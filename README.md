@@ -65,45 +65,7 @@
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a></p>
 </div> 
 
-<br>
-<br>
-## Proyectos 
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">SSP - Static Page</h3>
-<div align="center">
-</div>
-                                                                                      
-</td>
-<td width="50%">
-               <br>
-<h3 align="center">Dinamic Page</h3>
-<div align="center">                                       
 
-</div> 
-
-</table>                                                                                 
-</div>
-<br>
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">React- D.Page</h3>
-<div align="center">
-
-</div>
-                                                                                      
-</td>       
-<td width="50%">
-<h3 align="center">App</h3>
-<div align="center">
-
-</div>
-                                                                                      
-</td>  
-</table>                                                                                 
-</div>
 <br>
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
