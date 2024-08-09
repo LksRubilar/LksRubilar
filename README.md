@@ -1,7 +1,9 @@
 <div align="center">
 <h1 align="center">Hola, soy Lucas Rubilar </h1>
 </div>
-<img src="#">
+![bb](https://github.com/user-attachments/assets/a03b3c5c-4a48-421b-a11a-548a4e781d4d)
+<img src="![bb](https://github.com/user-attachments/assets/a03b3c5c-4a48-421b-a11a-548a4e781d4d)">
+
 
 ## Sobre mi
 
