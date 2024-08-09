@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Lucas Rubilar </h1>
 </div>
-![bb](https://github.com/user-attachments/assets/a84f18e0-1b6f-447c-8887-8bbe57e80e58)
+
 
 <img src="">
 
