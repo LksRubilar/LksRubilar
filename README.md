@@ -4,8 +4,6 @@
 
 ![cc](https://github.com/user-attachments/assets/5bfe844c-99ad-451f-a9b6-3155889dd21b)
 
-<img src="">
-
 
 ## Sobre mi
 
