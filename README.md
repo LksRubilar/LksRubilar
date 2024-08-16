@@ -2,7 +2,7 @@
 <h1 align="center">Hola, soy Lucas Rubilar </h1>
 </div>
 
-![cc](https://github.com/user-attachments/assets/5bfe844c-99ad-451f-a9b6-3155889dd21b)
+![20240814_014751](https://github.com/user-attachments/assets/9bce1e8d-890a-4edf-958e-7ad6f6e108d4)
 
 
 ## Sobre mi
